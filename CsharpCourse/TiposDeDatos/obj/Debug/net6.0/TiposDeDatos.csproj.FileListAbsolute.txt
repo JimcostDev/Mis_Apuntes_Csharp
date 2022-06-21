@@ -1,0 +1,15 @@
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\TiposDeDatos\bin\Debug\net6.0\TiposDeDatos.exe
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\TiposDeDatos\bin\Debug\net6.0\TiposDeDatos.deps.json
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\TiposDeDatos\bin\Debug\net6.0\TiposDeDatos.runtimeconfig.json
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\TiposDeDatos\bin\Debug\net6.0\TiposDeDatos.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\TiposDeDatos\bin\Debug\net6.0\ref\TiposDeDatos.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\TiposDeDatos\bin\Debug\net6.0\TiposDeDatos.pdb
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.csproj.AssemblyReference.cache
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.AssemblyInfoInputs.cache
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.AssemblyInfo.cs
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\TiposDeDatos\obj\Debug\net6.0\ref\TiposDeDatos.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.pdb
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\TiposDeDatos\obj\Debug\net6.0\TiposDeDatos.genruntimeconfig.cache
