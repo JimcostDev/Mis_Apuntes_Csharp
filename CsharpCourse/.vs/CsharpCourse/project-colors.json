@@ -10,7 +10,12 @@
       "ProjectGuid": "ca6cf56e-fd21-448a-836e-df6103055586",
       "DisplayName": "TiposDeDatos",
       "ColorIndex": 1
+    },
+    "0fec8d5e-0c00-483a-8785-f2c62db6b2d2": {
+      "ProjectGuid": "0fec8d5e-0c00-483a-8785-f2c62db6b2d2",
+      "DisplayName": "Variables",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
