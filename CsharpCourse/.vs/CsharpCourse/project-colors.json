@@ -15,7 +15,12 @@
       "ProjectGuid": "0fec8d5e-0c00-483a-8785-f2c62db6b2d2",
       "DisplayName": "Variables",
       "ColorIndex": 2
+    },
+    "4eab00dd-2026-45f3-9a7c-ec0f28f1bcdd": {
+      "ProjectGuid": "4eab00dd-2026-45f3-9a7c-ec0f28f1bcdd",
+      "DisplayName": "Funciones",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
