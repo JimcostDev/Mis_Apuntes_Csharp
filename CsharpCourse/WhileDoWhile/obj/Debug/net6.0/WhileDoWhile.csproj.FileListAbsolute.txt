@@ -1,0 +1,14 @@
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\WhileDoWhile\bin\Debug\net6.0\WhileDoWhile.exe
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\WhileDoWhile\bin\Debug\net6.0\WhileDoWhile.deps.json
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\WhileDoWhile\bin\Debug\net6.0\WhileDoWhile.runtimeconfig.json
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\WhileDoWhile\bin\Debug\net6.0\WhileDoWhile.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\WhileDoWhile\bin\Debug\net6.0\ref\WhileDoWhile.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\WhileDoWhile\bin\Debug\net6.0\WhileDoWhile.pdb
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\WhileDoWhile\obj\Debug\net6.0\WhileDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\WhileDoWhile\obj\Debug\net6.0\WhileDoWhile.AssemblyInfoInputs.cache
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\WhileDoWhile\obj\Debug\net6.0\WhileDoWhile.AssemblyInfo.cs
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\WhileDoWhile\obj\Debug\net6.0\WhileDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\WhileDoWhile\obj\Debug\net6.0\WhileDoWhile.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\WhileDoWhile\obj\Debug\net6.0\ref\WhileDoWhile.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\WhileDoWhile\obj\Debug\net6.0\WhileDoWhile.pdb
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\WhileDoWhile\obj\Debug\net6.0\WhileDoWhile.genruntimeconfig.cache
