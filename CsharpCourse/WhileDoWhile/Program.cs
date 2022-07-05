@@ -8,5 +8,11 @@ while (i < 10) {
 bool run = false;
 do
 {
-    Console.WriteLine("Entro una vez y ya");
+    Show();
 } while (run);
+
+
+static void Show()
+{
+    Console.WriteLine("Entro una vez y ya");
+}
