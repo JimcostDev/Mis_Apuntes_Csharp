@@ -13,7 +13,7 @@ switch (value)
         break;
     case > 4 and < 10:
         Console.WriteLine("Seleccionaste una opción entre 5 y 9");
-        break ;
+        break;
     default:
         Console.WriteLine("Opción invalida");
         break;

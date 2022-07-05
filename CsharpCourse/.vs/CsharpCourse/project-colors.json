@@ -20,7 +20,17 @@
       "ProjectGuid": "4eab00dd-2026-45f3-9a7c-ec0f28f1bcdd",
       "DisplayName": "Funciones",
       "ColorIndex": 3
+    },
+    "bb10fcce-ffda-4c0e-afd5-625da8fd6e04": {
+      "ProjectGuid": "bb10fcce-ffda-4c0e-afd5-625da8fd6e04",
+      "DisplayName": "Condicionales",
+      "ColorIndex": 4
+    },
+    "4915c0b3-6dee-4941-adb5-88dca71b2522": {
+      "ProjectGuid": "4915c0b3-6dee-4941-adb5-88dca71b2522",
+      "DisplayName": "SentenciaSwitch",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 6
 }

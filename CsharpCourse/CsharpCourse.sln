@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "Variables\Vari
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funciones", "Funciones\Funciones.csproj", "{4EAB00DD-2026-45F3-9A7C-EC0F28F1BCDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicionales", "Condicionales\Condicionales.csproj", "{BB10FCCE-FFDA-4C0E-AFD5-625DA8FD6E04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Condicionales", "Condicionales\Condicionales.csproj", "{BB10FCCE-FFDA-4C0E-AFD5-625DA8FD6E04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentenciaSwitch", "SentenciaSwitch\SentenciaSwitch.csproj", "{4915C0B3-6DEE-4941-ADB5-88DCA71B2522}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SentenciaSwitch", "SentenciaSwitch\SentenciaSwitch.csproj", "{4915C0B3-6DEE-4941-ADB5-88DCA71B2522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arreglos", "Arreglos\Arreglos.csproj", "{3131DA25-1A37-40F2-870E-392A930BF166}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{4915C0B3-6DEE-4941-ADB5-88DCA71B2522}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4915C0B3-6DEE-4941-ADB5-88DCA71B2522}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4915C0B3-6DEE-4941-ADB5-88DCA71B2522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3131DA25-1A37-40F2-870E-392A930BF166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3131DA25-1A37-40F2-870E-392A930BF166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3131DA25-1A37-40F2-870E-392A930BF166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3131DA25-1A37-40F2-870E-392A930BF166}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
