@@ -9,7 +9,8 @@
     "Xiomy"
 };
 
-for (int i = 0; i < friends.Length; i++)
+bool run = false;
+for (int i = 0; i < friends.Length && run; i++)
 {
     Console.WriteLine(friends[i]);
 }
