@@ -30,7 +30,27 @@
       "ProjectGuid": "4915c0b3-6dee-4941-adb5-88dca71b2522",
       "DisplayName": "SentenciaSwitch",
       "ColorIndex": 5
+    },
+    "3131da25-1a37-40f2-870e-392a930bf166": {
+      "ProjectGuid": "3131da25-1a37-40f2-870e-392a930bf166",
+      "DisplayName": "Arreglos",
+      "ColorIndex": 6
+    },
+    "19e74321-44c8-4f8f-bbb7-954a53bee0fe": {
+      "ProjectGuid": "19e74321-44c8-4f8f-bbb7-954a53bee0fe",
+      "DisplayName": "WhileDoWhile",
+      "ColorIndex": 7
+    },
+    "5b5c769c-dd87-4677-89e4-9d011db8fc3e": {
+      "ProjectGuid": "5b5c769c-dd87-4677-89e4-9d011db8fc3e",
+      "DisplayName": "For",
+      "ColorIndex": 8
+    },
+    "c7c0dce3-9343-42dd-8313-a04e213f7d78": {
+      "ProjectGuid": "c7c0dce3-9343-42dd-8313-a04e213f7d78",
+      "DisplayName": "ClasesYObjectos",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 10
 }
