@@ -12,7 +12,7 @@ class Sale
 
     //propiedades & modificadores de acceso
     private int total;
-    DateTime date;
+    private DateTime date;
 
     public int Total
     {
