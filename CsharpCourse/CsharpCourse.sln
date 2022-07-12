@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileDoWhile", "WhileDoWhil
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "For", "For\For.csproj", "{5B5C769C-DD87-4677-89E4-9D011DB8FC3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasesYObjectos", "ClasesYObjectos\ClasesYObjectos.csproj", "{C7C0DCE3-9343-42DD-8313-A04E213F7D78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasesYObjectos", "ClasesYObjectos\ClasesYObjectos.csproj", "{C7C0DCE3-9343-42DD-8313-A04E213F7D78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Propiedades", "POO_Propiedades\POO_Propiedades.csproj", "{A18D4B2A-E302-49CE-A5BC-7DB78FAB6D79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{C7C0DCE3-9343-42DD-8313-A04E213F7D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7C0DCE3-9343-42DD-8313-A04E213F7D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7C0DCE3-9343-42DD-8313-A04E213F7D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A18D4B2A-E302-49CE-A5BC-7DB78FAB6D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18D4B2A-E302-49CE-A5BC-7DB78FAB6D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18D4B2A-E302-49CE-A5BC-7DB78FAB6D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18D4B2A-E302-49CE-A5BC-7DB78FAB6D79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
