@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "POO_SobreCarga_Metodos/1.0.0": {
+        "runtime": {
+          "POO_SobreCarga_Metodos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POO_SobreCarga_Metodos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

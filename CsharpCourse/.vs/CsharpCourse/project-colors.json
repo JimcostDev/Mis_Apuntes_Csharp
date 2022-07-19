@@ -60,7 +60,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Archivos varios",
       "ColorIndex": -1
+    },
+    "85917c44-2369-49e8-b224-6645cda854f2": {
+      "ProjectGuid": "85917c44-2369-49e8-b224-6645cda854f2",
+      "DisplayName": "POO_Herencia",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 12
 }

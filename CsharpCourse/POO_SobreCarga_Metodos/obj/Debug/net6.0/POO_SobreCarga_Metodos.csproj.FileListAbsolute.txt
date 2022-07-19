@@ -1,0 +1,15 @@
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_SobreCarga_Metodos\bin\Debug\net6.0\POO_SobreCarga_Metodos.exe
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_SobreCarga_Metodos\bin\Debug\net6.0\POO_SobreCarga_Metodos.deps.json
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_SobreCarga_Metodos\bin\Debug\net6.0\POO_SobreCarga_Metodos.runtimeconfig.json
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_SobreCarga_Metodos\bin\Debug\net6.0\POO_SobreCarga_Metodos.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_SobreCarga_Metodos\bin\Debug\net6.0\ref\POO_SobreCarga_Metodos.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_SobreCarga_Metodos\bin\Debug\net6.0\POO_SobreCarga_Metodos.pdb
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_SobreCarga_Metodos\obj\Debug\net6.0\POO_SobreCarga_Metodos.csproj.AssemblyReference.cache
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_SobreCarga_Metodos\obj\Debug\net6.0\POO_SobreCarga_Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_SobreCarga_Metodos\obj\Debug\net6.0\POO_SobreCarga_Metodos.AssemblyInfoInputs.cache
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_SobreCarga_Metodos\obj\Debug\net6.0\POO_SobreCarga_Metodos.AssemblyInfo.cs
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_SobreCarga_Metodos\obj\Debug\net6.0\POO_SobreCarga_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_SobreCarga_Metodos\obj\Debug\net6.0\POO_SobreCarga_Metodos.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_SobreCarga_Metodos\obj\Debug\net6.0\ref\POO_SobreCarga_Metodos.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_SobreCarga_Metodos\obj\Debug\net6.0\POO_SobreCarga_Metodos.pdb
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_SobreCarga_Metodos\obj\Debug\net6.0\POO_SobreCarga_Metodos.genruntimeconfig.cache
