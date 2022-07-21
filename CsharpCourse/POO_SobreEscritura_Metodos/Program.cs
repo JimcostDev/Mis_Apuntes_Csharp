@@ -15,7 +15,7 @@ sale.AddItems(16);
 Console.WriteLine(sale.GetTotal());
 
 
-SaleWithTax saleTax = new SaleWithTax(5,0.19m);
+SaleWithTax saleTax = new SaleWithTax(5,1.19m);
 saleTax.AddItems(10);
 saleTax.AddItems(16);
 Console.WriteLine(saleTax.GetTotal());
