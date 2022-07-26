@@ -1,0 +1,14 @@
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Static\bin\Debug\net6.0\POO_Static.exe
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Static\bin\Debug\net6.0\POO_Static.deps.json
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Static\bin\Debug\net6.0\POO_Static.runtimeconfig.json
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Static\bin\Debug\net6.0\POO_Static.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Static\bin\Debug\net6.0\ref\POO_Static.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Static\bin\Debug\net6.0\POO_Static.pdb
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Static\obj\Debug\net6.0\POO_Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Static\obj\Debug\net6.0\POO_Static.AssemblyInfoInputs.cache
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Static\obj\Debug\net6.0\POO_Static.AssemblyInfo.cs
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Static\obj\Debug\net6.0\POO_Static.csproj.CoreCompileInputs.cache
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Static\obj\Debug\net6.0\POO_Static.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Static\obj\Debug\net6.0\ref\POO_Static.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Static\obj\Debug\net6.0\POO_Static.pdb
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Static\obj\Debug\net6.0\POO_Static.genruntimeconfig.cache

@@ -70,7 +70,12 @@
       "ProjectGuid": "f351daa8-f2a2-44a9-b75f-a1ce2fb41d8c",
       "DisplayName": "POO_SobreCarga_Metodos",
       "ColorIndex": 12
+    },
+    "f81f8304-79c0-4938-bd85-d9b31211fa64": {
+      "ProjectGuid": "f81f8304-79c0-4938-bd85-d9b31211fa64",
+      "DisplayName": "POO_SobreEscritura_Metodos",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 14
 }
