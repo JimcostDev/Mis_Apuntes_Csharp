@@ -75,7 +75,17 @@
       "ProjectGuid": "f81f8304-79c0-4938-bd85-d9b31211fa64",
       "DisplayName": "POO_SobreEscritura_Metodos",
       "ColorIndex": 13
+    },
+    "fa7a415e-d40f-4592-96ce-394351112632": {
+      "ProjectGuid": "fa7a415e-d40f-4592-96ce-394351112632",
+      "DisplayName": "POO_Static",
+      "ColorIndex": 14
+    },
+    "82965c1d-6cd8-48ad-8f5f-267a8b6e3cbe": {
+      "ProjectGuid": "82965c1d-6cd8-48ad-8f5f-267a8b6e3cbe",
+      "DisplayName": "POO_Interfaces",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 0
 }

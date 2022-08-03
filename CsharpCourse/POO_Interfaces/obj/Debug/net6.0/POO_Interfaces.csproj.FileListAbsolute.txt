@@ -1,0 +1,15 @@
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Interfaces\bin\Debug\net6.0\POO_Interfaces.exe
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Interfaces\bin\Debug\net6.0\POO_Interfaces.deps.json
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Interfaces\bin\Debug\net6.0\POO_Interfaces.runtimeconfig.json
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Interfaces\bin\Debug\net6.0\POO_Interfaces.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Interfaces\bin\Debug\net6.0\ref\POO_Interfaces.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Interfaces\bin\Debug\net6.0\POO_Interfaces.pdb
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Interfaces\obj\Debug\net6.0\POO_Interfaces.csproj.AssemblyReference.cache
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Interfaces\obj\Debug\net6.0\POO_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Interfaces\obj\Debug\net6.0\POO_Interfaces.AssemblyInfoInputs.cache
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Interfaces\obj\Debug\net6.0\POO_Interfaces.AssemblyInfo.cs
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Interfaces\obj\Debug\net6.0\POO_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Interfaces\obj\Debug\net6.0\POO_Interfaces.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Interfaces\obj\Debug\net6.0\ref\POO_Interfaces.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Interfaces\obj\Debug\net6.0\POO_Interfaces.pdb
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\POO_Interfaces\obj\Debug\net6.0\POO_Interfaces.genruntimeconfig.cache

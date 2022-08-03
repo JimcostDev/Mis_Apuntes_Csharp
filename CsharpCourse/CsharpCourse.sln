@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_SobreCarga_Metodos", "P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_SobreEscritura_Metodos", "POO_SobreEscritura_Metodos\POO_SobreEscritura_Metodos.csproj", "{F81F8304-79C0-4938-BD85-D9B31211FA64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Static", "POO_Static\POO_Static.csproj", "{FA7A415E-D40F-4592-96CE-394351112632}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Static", "POO_Static\POO_Static.csproj", "{FA7A415E-D40F-4592-96CE-394351112632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Interfaces", "POO_Interfaces\POO_Interfaces.csproj", "{82965C1D-6CD8-48AD-8F5F-267A8B6E3CBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{FA7A415E-D40F-4592-96CE-394351112632}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA7A415E-D40F-4592-96CE-394351112632}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA7A415E-D40F-4592-96CE-394351112632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82965C1D-6CD8-48AD-8F5F-267A8B6E3CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82965C1D-6CD8-48AD-8F5F-267A8B6E3CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82965C1D-6CD8-48AD-8F5F-267A8B6E3CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82965C1D-6CD8-48AD-8F5F-267A8B6E3CBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
