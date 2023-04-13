@@ -85,7 +85,12 @@
       "ProjectGuid": "82965c1d-6cd8-48ad-8f5f-267a8b6e3cbe",
       "DisplayName": "POO_Interfaces",
       "ColorIndex": 15
+    },
+    "c8ca5144-ad5f-4214-9ea1-87b4cd37d216": {
+      "ProjectGuid": "c8ca5144-ad5f-4214-9ea1-87b4cd37d216",
+      "DisplayName": "peak",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 1
 }
