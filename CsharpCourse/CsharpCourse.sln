@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Interfaces", "POO_Inter
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "peak", "peak\peak.csproj", "{C8CA5144-AD5F-4214-9EA1-87B4CD37D216}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_Generics", "POO_Generics\POO_Generics.csproj", "{E955913B-7EC0-4D27-ACA5-451F02969843}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO_Generics", "POO_Generics\POO_Generics.csproj", "{E955913B-7EC0-4D27-ACA5-451F02969843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Json", "Json\Json.csproj", "{71E545FF-7FE3-41A7-A64C-4D8F1B15319A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{E955913B-7EC0-4D27-ACA5-451F02969843}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E955913B-7EC0-4D27-ACA5-451F02969843}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E955913B-7EC0-4D27-ACA5-451F02969843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E545FF-7FE3-41A7-A64C-4D8F1B15319A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E545FF-7FE3-41A7-A64C-4D8F1B15319A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E545FF-7FE3-41A7-A64C-4D8F1B15319A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E545FF-7FE3-41A7-A64C-4D8F1B15319A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
