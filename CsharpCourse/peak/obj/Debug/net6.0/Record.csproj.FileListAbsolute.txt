@@ -1,0 +1,4 @@
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\peak\obj\Debug\net6.0\Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\peak\obj\Debug\net6.0\Record.AssemblyInfoInputs.cache
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\peak\obj\Debug\net6.0\Record.AssemblyInfo.cs
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\peak\obj\Debug\net6.0\Record.csproj.CoreCompileInputs.cache

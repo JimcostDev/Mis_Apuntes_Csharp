@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JIMCOSTDEV\\Desktop\\Cursos\\Udemy\\Hector De Leon\\C#\\CsharpCourse\\peak\\peak.csproj",
-      "projectName": "peak",
-      "projectPath": "C:\\Users\\JIMCOSTDEV\\Desktop\\Cursos\\Udemy\\Hector De Leon\\C#\\CsharpCourse\\peak\\peak.csproj",
+      "projectUniqueName": "C:\\Users\\JIMCOSTDEV\\Desktop\\Cursos\\Udemy\\Hector De Leon\\C#\\CsharpCourse\\peak\\Record.csproj",
+      "projectName": "Record",
+      "projectPath": "C:\\Users\\JIMCOSTDEV\\Desktop\\Cursos\\Udemy\\Hector De Leon\\C#\\CsharpCourse\\peak\\Record.csproj",
       "packagesPath": "C:\\Users\\JIMCOSTDEV\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\JIMCOSTDEV\\Desktop\\Cursos\\Udemy\\Hector De Leon\\C#\\CsharpCourse\\peak\\obj\\",
       "projectStyle": "PackageReference",
