@@ -105,7 +105,12 @@
       "ProjectGuid": "bbe6016a-a179-4804-9758-12fc264c1147",
       "DisplayName": "Listas",
       "ColorIndex": 3
+    },
+    "2baea354-121a-4e6b-8df8-8725af48738e": {
+      "ProjectGuid": "2baea354-121a-4e6b-8df8-8725af48738e",
+      "DisplayName": "ForEach",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

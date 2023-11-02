@@ -41,7 +41,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Json", "Json\Json.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listas", "Listas\Listas.csproj", "{BBE6016A-A179-4804-9758-12FC264C1147}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEach", "ForEach\ForEach.csproj", "{2BAEA354-121A-4E6B-8DF8-8725AF48738E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForEach", "ForEach\ForEach.csproj", "{2BAEA354-121A-4E6B-8DF8-8725AF48738E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excepciones", "Excepciones\Excepciones.csproj", "{7B2337DE-33A1-48AF-B9E8-DCD9A2198E1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcepcionesPersonalizadas", "ExcepcionesPersonalizadas\ExcepcionesPersonalizadas.csproj", "{DECC89B8-B4E1-4803-A1C0-CC129B60A818}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +133,14 @@ Global
 		{2BAEA354-121A-4E6B-8DF8-8725AF48738E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BAEA354-121A-4E6B-8DF8-8725AF48738E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BAEA354-121A-4E6B-8DF8-8725AF48738E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B2337DE-33A1-48AF-B9E8-DCD9A2198E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B2337DE-33A1-48AF-B9E8-DCD9A2198E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B2337DE-33A1-48AF-B9E8-DCD9A2198E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B2337DE-33A1-48AF-B9E8-DCD9A2198E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DECC89B8-B4E1-4803-A1C0-CC129B60A818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECC89B8-B4E1-4803-A1C0-CC129B60A818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECC89B8-B4E1-4803-A1C0-CC129B60A818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECC89B8-B4E1-4803-A1C0-CC129B60A818}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

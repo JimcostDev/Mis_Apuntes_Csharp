@@ -1,0 +1,14 @@
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\ExcepcionesPersonalizadas\bin\Debug\net6.0\ExcepcionesPersonalizadas.exe
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\ExcepcionesPersonalizadas\bin\Debug\net6.0\ExcepcionesPersonalizadas.deps.json
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\ExcepcionesPersonalizadas\bin\Debug\net6.0\ExcepcionesPersonalizadas.runtimeconfig.json
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\ExcepcionesPersonalizadas\bin\Debug\net6.0\ExcepcionesPersonalizadas.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\ExcepcionesPersonalizadas\bin\Debug\net6.0\ref\ExcepcionesPersonalizadas.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\ExcepcionesPersonalizadas\bin\Debug\net6.0\ExcepcionesPersonalizadas.pdb
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.AssemblyInfo.cs
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\ExcepcionesPersonalizadas\obj\Debug\net6.0\ref\ExcepcionesPersonalizadas.dll
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.pdb
+C:\Users\JIMCOSTDEV\Desktop\Cursos\Udemy\Hector De Leon\C#\CsharpCourse\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.genruntimeconfig.cache
