@@ -110,7 +110,22 @@
       "ProjectGuid": "2baea354-121a-4e6b-8df8-8725af48738e",
       "DisplayName": "ForEach",
       "ColorIndex": 4
+    },
+    "7b2337de-33a1-48af-b9e8-dcd9a2198e1f": {
+      "ProjectGuid": "7b2337de-33a1-48af-b9e8-dcd9a2198e1f",
+      "DisplayName": "Excepciones",
+      "ColorIndex": 5
+    },
+    "decc89b8-b4e1-4803-a1c0-cc129b60a818": {
+      "ProjectGuid": "decc89b8-b4e1-4803-a1c0-cc129b60a818",
+      "DisplayName": "ExcepcionesPersonalizadas",
+      "ColorIndex": 6
+    },
+    "26ef3369-437a-4476-9d84-f21208542e9f": {
+      "ProjectGuid": "26ef3369-437a-4476-9d84-f21208542e9f",
+      "DisplayName": "LINQ_Join",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 8
 }
