@@ -16,7 +16,8 @@ namespace BaseDeDatos
         {
             Connect();
             List<Team> Teams = new List<Team>();
-            string query = "SELECT ID, Name, LeagueID FROM Team";
+            //string query = "SELECT ID, Name, LeagueID FROM Team";
+            string query = "EXEC [dbo].[pa_ConsultarEquipos]"; 
             SqlCommand command = new SqlCommand(query, _connection);
             SqlDataReader reader = command.ExecuteReader();
 
