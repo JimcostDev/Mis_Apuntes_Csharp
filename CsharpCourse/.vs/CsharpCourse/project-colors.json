@@ -125,7 +125,12 @@
       "ProjectGuid": "26ef3369-437a-4476-9d84-f21208542e9f",
       "DisplayName": "LINQ_Join",
       "ColorIndex": 7
+    },
+    "5a8838bc-87e9-466d-bc90-a3d66420b691": {
+      "ProjectGuid": "5a8838bc-87e9-466d-bc90-a3d66420b691",
+      "DisplayName": "BaseDeDatos",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }

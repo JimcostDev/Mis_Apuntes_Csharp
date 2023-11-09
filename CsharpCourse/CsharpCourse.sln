@@ -47,9 +47,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Excepciones", "Excepciones\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcepcionesPersonalizadas", "ExcepcionesPersonalizadas\ExcepcionesPersonalizadas.csproj", "{DECC89B8-B4E1-4803-A1C0-CC129B60A818}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{B1C5AB99-7382-424C-93C9-3F4554DAC6A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ", "LINQ\LINQ.csproj", "{B1C5AB99-7382-424C-93C9-3F4554DAC6A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_Join", "LINQ_Join\LINQ_Join.csproj", "{26EF3369-437A-4476-9D84-F21208542E9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ_Join", "LINQ_Join\LINQ_Join.csproj", "{26EF3369-437A-4476-9D84-F21208542E9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseDeDatos", "BaseDeDatos\BaseDeDatos.csproj", "{5A8838BC-87E9-466D-BC90-A3D66420B691}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{26EF3369-437A-4476-9D84-F21208542E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26EF3369-437A-4476-9D84-F21208542E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26EF3369-437A-4476-9D84-F21208542E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A8838BC-87E9-466D-BC90-A3D66420B691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8838BC-87E9-466D-BC90-A3D66420B691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8838BC-87E9-466D-BC90-A3D66420B691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8838BC-87E9-466D-BC90-A3D66420B691}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
