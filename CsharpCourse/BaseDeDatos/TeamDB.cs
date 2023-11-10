@@ -33,5 +33,19 @@ namespace BaseDeDatos
 
             return Teams;
         }
+        // insertar un elemento
+        public void Add(Team team)
+        {
+            Connect();
+            //string query = "INSERT INTO Team(Name, LeagueID) " +
+            //    "VALUES(@name, @leagueID)";
+            string query = "EXEC [dbo].[pa_CrearEquipo] @name, @leagueID";
+            SqlCommand command = new SqlCommand(query, _connection);
+            command.Parameters.AddWithValue("@name", team.Name);
+            command.Parameters.AddWithValue("@leagueID", team.LeagueID);
+            command.ExecuteNonQuery();
+
+            Close();
+        }
     }
 }
