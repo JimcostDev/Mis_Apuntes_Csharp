@@ -10,6 +10,27 @@ namespace BaseDeDatos
         {
 
         }
+        // obtener un elemento por su id
+        public Team Get(int id)
+        {
+            Connect();
+            Team team = null;
+            string query = "SELECT ID, Name, LeagueID FROM Team " +
+                "WHERE ID = @id";
+            SqlCommand command = new SqlCommand(query, _connection);
+            command.Parameters.AddWithValue("@id", id);
+            SqlDataReader reader = command.ExecuteReader();
+
+            while (reader.Read())
+            {
+                string name = reader.GetString(1);
+                int leagueID = reader.GetInt32(2);
+                team = new Team(id, name, leagueID);
+            }
+            Close();
+
+            return team;
+        }
 
         // consultar todos los equipos
         public List<Team> GetAll()
@@ -47,5 +68,34 @@ namespace BaseDeDatos
 
             Close();
         }
+
+        // actualizar
+        public void Edit(Team team)
+        {
+            Connect();
+
+            string query = "UPDATE Team SET Name=@name, LeagueID=@leagueID " +
+                "WHERE ID=@id";
+            SqlCommand command = new SqlCommand(query, _connection);
+            command.Parameters.AddWithValue("@name", team.Name);
+            command.Parameters.AddWithValue("@leagueID", team.LeagueID);
+            command.Parameters.AddWithValue("@id", team.ID);
+            command.ExecuteNonQuery();
+
+            Close();
+        }
+        // eliminar
+        public void Delete(int id)
+        {
+            Connect();
+
+            string query = "DELETE FROM Team WHERE ID=@id";
+            SqlCommand command = new SqlCommand(query, _connection);
+            command.Parameters.AddWithValue("@id", id);
+            command.ExecuteNonQuery();
+
+            Close();
+        }
     }
 }
+
