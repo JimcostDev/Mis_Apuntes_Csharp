@@ -51,7 +51,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ", "LINQ\LINQ.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ_Join", "LINQ_Join\LINQ_Join.csproj", "{26EF3369-437A-4476-9D84-F21208542E9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseDeDatos", "BaseDeDatos\BaseDeDatos.csproj", "{5A8838BC-87E9-466D-BC90-A3D66420B691}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaseDeDatos", "BaseDeDatos\BaseDeDatos.csproj", "{5A8838BC-87E9-466D-BC90-A3D66420B691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF", "EF\EF.csproj", "{851D8511-4A60-446E-9578-724D7403B24B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{5A8838BC-87E9-466D-BC90-A3D66420B691}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A8838BC-87E9-466D-BC90-A3D66420B691}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A8838BC-87E9-466D-BC90-A3D66420B691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{851D8511-4A60-446E-9578-724D7403B24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851D8511-4A60-446E-9578-724D7403B24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851D8511-4A60-446E-9578-724D7403B24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851D8511-4A60-446E-9578-724D7403B24B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

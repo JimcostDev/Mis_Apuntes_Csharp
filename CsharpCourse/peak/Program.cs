@@ -1,4 +1,9 @@
-﻿public record Persona
+﻿static void Main(string[] args)
+{
+    // Código para iniciar tu aplicación aquí
+    Console.WriteLine("¡Hola, mundo!");
+}
+public record Persona
 {
     public string Nombre { get; }
     public string Apellido { get; }
