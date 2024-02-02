@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z3THqw4G9djn+jMycZ+UPcWPpjPD/HNmq6Cc08ExPRipOCESd+c4OV5Dt5LhOR0KX4cOyu6SIUudu5YFpO7lLg==",
+  "dgSpecHash": "vgAfeqMFLHX6JeuDrmRTMKA+QntSntBVilGv2nf98zTLvzrEwGg0YsCZPItmXCrN2ipUz5xe1rVuuqnZF+IzgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JIMCOSTDEV\\Desktop\\Cursos\\Udemy\\Hector De Leon\\C#\\CsharpCourse\\EF\\EF.csproj",
+  "projectFilePath": "C:\\Users\\JIMCOSTDEV\\Desktop\\jimcostdev\\cursos\\Udemy\\Hector De Leon\\C#\\CsharpCourse\\EF\\EF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JIMCOSTDEV\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\JIMCOSTDEV\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

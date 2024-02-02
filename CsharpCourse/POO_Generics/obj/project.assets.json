@@ -8,28 +8,20 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\JIMCOSTDEV\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\JIMCOSTDEV\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JIMCOSTDEV\\Desktop\\Cursos\\Udemy\\Hector De Leon\\C#\\CsharpCourse\\POO_Generics\\POO_Generics.csproj",
+      "projectUniqueName": "C:\\Users\\JIMCOSTDEV\\Desktop\\jimcostdev\\cursos\\Udemy\\Hector De Leon\\C#\\CsharpCourse\\POO_Generics\\POO_Generics.csproj",
       "projectName": "POO_Generics",
-      "projectPath": "C:\\Users\\JIMCOSTDEV\\Desktop\\Cursos\\Udemy\\Hector De Leon\\C#\\CsharpCourse\\POO_Generics\\POO_Generics.csproj",
+      "projectPath": "C:\\Users\\JIMCOSTDEV\\Desktop\\jimcostdev\\cursos\\Udemy\\Hector De Leon\\C#\\CsharpCourse\\POO_Generics\\POO_Generics.csproj",
       "packagesPath": "C:\\Users\\JIMCOSTDEV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JIMCOSTDEV\\Desktop\\Cursos\\Udemy\\Hector De Leon\\C#\\CsharpCourse\\POO_Generics\\obj\\",
+      "outputPath": "C:\\Users\\JIMCOSTDEV\\Desktop\\jimcostdev\\cursos\\Udemy\\Hector De Leon\\C#\\CsharpCourse\\POO_Generics\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
         "C:\\Users\\JIMCOSTDEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -69,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

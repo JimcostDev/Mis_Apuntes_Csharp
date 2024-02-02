@@ -130,7 +130,22 @@
       "ProjectGuid": "5a8838bc-87e9-466d-bc90-a3d66420b691",
       "DisplayName": "BaseDeDatos",
       "ColorIndex": 8
+    },
+    "608388d1-320f-4086-8b75-e0612ed8c8f4": {
+      "ProjectGuid": "608388d1-320f-4086-8b75-e0612ed8c8f4",
+      "DisplayName": "BD",
+      "ColorIndex": 9
+    },
+    "851d8511-4a60-446e-9578-724d7403b24b": {
+      "ProjectGuid": "851d8511-4a60-446e-9578-724d7403b24b",
+      "DisplayName": "EF",
+      "ColorIndex": 10
+    },
+    "9a3931f6-4b65-4887-8f4f-412d2214bd4f": {
+      "ProjectGuid": "9a3931f6-4b65-4887-8f4f-412d2214bd4f",
+      "DisplayName": "EntityFramework",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 12
 }

@@ -1,0 +1,5 @@
+-- EF --
+1. primero instalar los paquetes: entity framework core, sqlserver y tools
+2. en la consola de paquetes:
+	Scaffold-DbContext "Server=.\LOCAL; Database=Test; User Id=jimcostdev; Password=123456;" Microsoft.EntityFrameworkCore.SqlServer
+	Scaffold-DbContext "Server=.\LOCAL; Database=Test; Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer
