@@ -3,15 +3,19 @@ Instalar los paquetes: entity framework core, sqlserver y tools
 
 --- 
 ### 1. para mapear tu bd con ef
-
+- **Consoloa de admin de paquetes:**
+```bash
 - Scaffold-DbContext "Server=.\LOCAL; Database=Test; User=usuario; Password=123456;" Microsoft.EntityFrameworkCore.SqlServer
 
 - Scaffold-DbContext Name=TuConexion Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models 
 
 - Scaffold-DbContext Name=TuConexion Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
+```
   
-- dotnet ef dbcontext scaffold "TuCadenaDeConexion" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models --force
-
+- **CLI**
+```bash
+dotnet ef dbcontext scaffold Name=MyConnection Microsoft.EntityFrameworkCore.SqlServer --output-dir Models --force
+```
 
 ### 2. para relizar updates
 
