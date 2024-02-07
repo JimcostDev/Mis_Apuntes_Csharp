@@ -9,6 +9,9 @@ Instalar los paquetes: entity framework core, sqlserver y tools
 - Scaffold-DbContext Name=TuConexion Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models 
 
 - Scaffold-DbContext Name=TuConexion Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
+  
+- dotnet ef dbcontext scaffold "TuCadenaDeConexion" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models --force
+
 
 ### 2. para relizar updates
 
